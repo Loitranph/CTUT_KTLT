@@ -8,7 +8,6 @@
 							3 Trần Hoài Phúc 2100497
 							4 Nguyễn Đặng Thuận Thành 2100749
 							5 Phan Liên Hữu Tình 2100259
-							6 Nguyễn An Bình 2101239
 
 									Project: Menu
 
